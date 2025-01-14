@@ -62,3 +62,7 @@ We are currently in a transition phase between versions 1.x and 2.x. v2.x will e
 Roadmap
 ------------
 A roadmap for the future development of tobac is available here: https://github.com/tobac-project/tobac-roadmap/blob/master/tobac-roadmap-main.md
+
+Test GIF
+------------
+![](https://github.com/Sven-248/gif_test_public/blob/master/cloud_tracking_OLR_fr15.gif)
